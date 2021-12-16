@@ -2,6 +2,6 @@ package day1;
 
 public class StringPractice {
     public static void main(String[] args) {
-        System.out.println("Happy Holiday!");
+        System.out.println("Happy December!");
     }
 }
